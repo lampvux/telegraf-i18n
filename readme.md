@@ -1,5 +1,5 @@
-[![Build Status](https://img.shields.io/travis/telegraf/telegraf-i18n.svg?branch=master&style=flat-square)](https://travis-ci.org/telegraf/telegraf-i18n)
-[![NPM Version](https://img.shields.io/npm/v/telegraf-i18n.svg?style=flat-square)](https://www.npmjs.com/package/telegraf-i18n)
+[![Build Status](https://img.shields.io/travis/telegraf/telegraf-i18n.svg?branch=master&style=flat-square)](https://travis-ci.org/lampvux/telegraf-i18n)
+[![NPM Version](https://img.shields.io/npm/v/lampvux-telegraf-i18n.svg?style=flat-square)](https://www.npmjs.com/package/lampvux-telegraf-i18n)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
 
 # i18n for Telegraf
@@ -9,14 +9,14 @@ Internationalization middleware for [Telegraf](https://github.com/telegraf/teleg
 ## Installation
 
 ```js
-$ npm install telegraf-i18n
+$ npm install lampvux-telegraf-i18n
 ```
 
 ## Example
   
 ```js
 const Telegraf = require('telegraf')
-const TelegrafI18n = require('telegraf-i18n')
+const TelegrafI18n = require('lampvux-telegraf-i18n')
 
 /* 
 yaml and json are ok

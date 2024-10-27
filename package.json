@@ -1,12 +1,12 @@
 {
-  "name": "telegraf-i18n",
-  "version": "6.6.1",
+  "name": "lampvux-telegraf-i18n",
+  "version": "6.6.3",
   "description": "Telegraf i18n engine",
   "main": "lib/i18n.js",
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/telegraf/telegraf-i18n.git"
+    "url": "git+ssh://git@github.com:lampvux/telegraf-i18n.git"
   },
   "keywords": [
     "telegram bot",
@@ -16,12 +16,12 @@
     "internationalization",
     "middleware"
   ],
-  "author": "Vitaly Domnikov <oss@vitaly.codes>",
+  "author": "Lam Vu <tunglam195@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/telegraf/telegraf-i18n/issues"
+    "url": "https://github.com/lampvux/telegraf-i18n/issues"
   },
-  "homepage": "https://github.com/telegraf/telegraf-i18n#readme",
+  "homepage": "https://github.com/lampvux/telegraf-i18n#readme",
   "engines": {
     "node": ">=8"
   },
