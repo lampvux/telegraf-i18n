@@ -4,6 +4,8 @@
 
 # i18n for Telegraf
 
+Folked version of [telegraf-i18n](https://www.npmjs.com/package/telegraf-i18n) to work with [telegraf.js](https://www.npmjs.com/package/telegraf) 4.16.3 & node18
+
 Internationalization middleware for [Telegraf](https://github.com/telegraf/telegraf).
 
 ## Installation
